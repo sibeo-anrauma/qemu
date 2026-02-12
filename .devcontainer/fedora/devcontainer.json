@@ -1,8 +1,8 @@
 {
-  "name": "Fedora",
+  "name": "Fedora Sway",
   "service": "qemu",
   "containerEnv": {
-    "BOOT": "fedora" 
+    "BOOT": "https://mirrors.qlu.edu.cn/fedora/releases/43/Spins/x86_64/iso/Fedora-Sway-Live-x86_64-43-1.6.iso" 
   },
   "forwardPorts": [8006],
   "portsAttributes": {
