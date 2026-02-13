@@ -2,7 +2,7 @@
   "name": "MX Linux",
   "service": "qemu",
   "containerEnv": {
-    "BOOT": "mx"
+    "BOOT": "https://zenlayer.dl.sourceforge.net/project/mx-linux/Final/Fluxbox/MX-25.1_fluxbox_x64.iso?viasf=1"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
